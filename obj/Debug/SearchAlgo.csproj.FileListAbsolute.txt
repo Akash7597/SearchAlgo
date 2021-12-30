@@ -1,0 +1,8 @@
+C:\Users\AkashVikas\source\repos\SearchAlgo\SearchAlgo\bin\Debug\SearchAlgo.exe.config
+C:\Users\AkashVikas\source\repos\SearchAlgo\SearchAlgo\bin\Debug\SearchAlgo.exe
+C:\Users\AkashVikas\source\repos\SearchAlgo\SearchAlgo\bin\Debug\SearchAlgo.pdb
+C:\Users\AkashVikas\source\repos\SearchAlgo\SearchAlgo\obj\Debug\SearchAlgo.csproj.AssemblyReference.cache
+C:\Users\AkashVikas\source\repos\SearchAlgo\SearchAlgo\obj\Debug\SearchAlgo.csproj.SuggestedBindingRedirects.cache
+C:\Users\AkashVikas\source\repos\SearchAlgo\SearchAlgo\obj\Debug\SearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\AkashVikas\source\repos\SearchAlgo\SearchAlgo\obj\Debug\SearchAlgo.exe
+C:\Users\AkashVikas\source\repos\SearchAlgo\SearchAlgo\obj\Debug\SearchAlgo.pdb
